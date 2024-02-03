@@ -6,7 +6,7 @@ This Project Consist of Following pages-
 - Skill
 - Contact
 
-<h3>How to USe it?</h3>
+<h3>How to Use it?</h3>
 <h4>Follow the below steps and commands</h4>
 1. open VS Code, or any of your code editor.
 2. open a new terminal.
